@@ -1,1 +1,101 @@
-@import '~mdb-ui-kit/css/mdb.min.css';
+// @import '~mdb-ui-kit/css/mdb.min.css';
+
+// CORE FUNCTIONS
+@import '../../mdb/scss/bootstrap/functions';
+@import '../../mdb/scss/free/functions';
+
+// CORE VARIABLES
+@import '../../mdb/scss/custom/variables';
+@import '../../mdb/scss/free/variables';
+@import '../../mdb/scss/bootstrap/variables';
+
+// BOOTSTRAP CORE
+@import '../../mdb/scss/bootstrap/mixins';
+@import '../../mdb/scss/bootstrap/utilities';
+
+// BOOTSTRAP CORE COMPONENTS
+@import '../../mdb/scss/bootstrap/root';
+@import '../../mdb/scss/bootstrap/reboot';
+@import '../../mdb/scss/bootstrap/type';
+@import '../../mdb/scss/bootstrap/images';
+@import '../../mdb/scss/bootstrap/containers';
+@import '../../mdb/scss/bootstrap/grid';
+
+// BOOTSTRAP COMPONENTS
+@import '../../mdb/scss/bootstrap/tables';
+@import '../../mdb/scss/bootstrap/forms';
+@import '../../mdb/scss/bootstrap/buttons';
+@import '../../mdb/scss/bootstrap/transitions';
+@import '../../mdb/scss/bootstrap/dropdown';
+@import '../../mdb/scss/bootstrap/button-group';
+@import '../../mdb/scss/bootstrap/nav';
+@import '../../mdb/scss/bootstrap/navbar';
+@import '../../mdb/scss/bootstrap/card';
+@import '../../mdb/scss/bootstrap/breadcrumb';
+@import '../../mdb/scss/bootstrap/pagination';
+@import '../../mdb/scss/bootstrap/badge';
+@import '../../mdb/scss/bootstrap/alert';
+@import '../../mdb/scss/bootstrap/accordion';
+@import '../../mdb/scss/bootstrap/progress';
+@import '../../mdb/scss/bootstrap/list-group';
+@import '../../mdb/scss/bootstrap/close';
+@import '../../mdb/scss/bootstrap/toasts';
+@import '../../mdb/scss/bootstrap/modal';
+@import '../../mdb/scss/bootstrap/tooltip';
+@import '../../mdb/scss/bootstrap/popover';
+@import '../../mdb/scss/bootstrap/carousel';
+@import '../../mdb/scss/bootstrap/spinners';
+@import '../../mdb/scss/bootstrap/tooltip';
+
+// Helpers
+@import '../../mdb/scss/bootstrap/helpers';
+
+// Utilities
+@import '../../mdb/scss/bootstrap/utilities/api';
+
+// MDB CORE
+@import '../../mdb/scss/free/mixins';
+
+// MDB CORE COMPONENTS
+@import '../../mdb/scss/free/root';
+@import '../../mdb/scss/free/reboot';
+@import '../../mdb/scss/free/type';
+@import '../../mdb/scss/free/colors';
+@import '../../mdb/scss/free/shadows';
+@import '../../mdb/scss/free/flag';
+@import '../../mdb/scss/free/images';
+
+// MDB FORMS
+@import '../../mdb/scss/free/forms/form-control';
+@import '../../mdb/scss/free/forms/form-select';
+@import '../../mdb/scss/free/forms/form-check';
+@import '../../mdb/scss/free/forms/form-file';
+@import '../../mdb/scss/free/forms/input-group';
+@import '../../mdb/scss/free/forms/validation';
+@import '../../mdb/scss/free/forms/form-range';
+
+// MDB COMPONENTS
+@import '../../mdb/scss/free/tables';
+@import '../../mdb/scss/free/buttons';
+@import '../../mdb/scss/free/deprecated';
+@import '../../mdb/scss/free/dropdown';
+@import '../../mdb/scss/free/button-group';
+@import '../../mdb/scss/free/nav';
+@import '../../mdb/scss/free/navbar';
+@import '../../mdb/scss/free/card';
+@import '../../mdb/scss/free/breadcrumb';
+@import '../../mdb/scss/free/pagination';
+@import '../../mdb/scss/free/badge';
+@import '../../mdb/scss/free/alert';
+@import '../../mdb/scss/free/progress';
+@import '../../mdb/scss/free/list-group';
+@import '../../mdb/scss/free/close';
+@import '../../mdb/scss/free/modal';
+@import '../../mdb/scss/free/toasts';
+@import '../../mdb/scss/free/tooltip';
+@import '../../mdb/scss/free/popover';
+@import '../../mdb/scss/free/scrollspy';
+@import '../../mdb/scss/free/ripple';
+@import '../../mdb/scss/free/range';
+@import '../../mdb/scss/free/accordion';
+@import '../../mdb/scss/free/carousel';
